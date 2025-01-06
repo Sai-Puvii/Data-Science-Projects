@@ -1,1 +1,5 @@
+Assume that we are working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, including data science, game development, and so on. We want to promote our product and we would like to invest some money in advertisement. The goal of this project is to find out the two best markets to advertise our product in.
 
+To achieve the objective, we could organize surveys for a couple of different markets to find out which would be the best choices for advertising. This is very expensive, however, and it is a good call to explore cheaper options first.
+
+We can try to search existing data that might be releveant for our purpose. One good candidate is the data from freeCodeCamp's 2018 New Coder Survey. freeCodeCamp is a free e-learning platform that offers courses on web development. Because they run a popular Medium publication, their survey attracted new coders with varying interests, which is ideal for the analysis of the project
